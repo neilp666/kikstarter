@@ -25,3 +25,13 @@
  @import "settings";
  @import "variables";
 
+
+.navbar-header {
+ text-decoration: none;
+ float: left;
+ font-size: 1.7em;
+ color: red;
+ letter-spacing: -1px;
+ font-weight: bold;
+}
+
