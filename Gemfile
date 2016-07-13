@@ -14,6 +14,8 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'normalize-rails'
 gem 'devise'
 gem 'annotate'
+gem 'simple_form'
+gem 'bootstrap-wysihtml5-rails', github: 'nerian/bootstrap-wysihtml5-rails'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
