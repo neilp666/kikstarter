@@ -65,6 +65,8 @@ GEM
       execjs
     coffee-script-source (1.10.0)
     concurrent-ruby (1.0.2)
+    date_validator (0.8.1)
+      activemodel
     debug_inspector (0.0.2)
     devise (3.5.2)
       bcrypt (~> 3.0)
@@ -183,6 +185,7 @@ DEPENDENCIES
   bootstrap-wysihtml5-rails!
   byebug
   coffee-rails (~> 4.1.0)
+  date_validator
   devise
   jbuilder (~> 2.0)
   jquery-rails
